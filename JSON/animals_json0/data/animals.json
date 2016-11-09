@@ -1,0 +1,18 @@
+[
+{
+   "id": 0,
+   "species": "Panthera leo",
+   "name": "Lion"
+},
+{
+   "id": 1,
+   "species": "Capra hircus",
+   "name": "Goat"
+},
+{
+   "id": 2,
+   "species": "Equus zebra",
+   "name": "Zebra"
+}
+]
+
